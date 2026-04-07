@@ -12044,5 +12044,32 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
-
-/*# sourceMappingURL=bootstrap.css.map */
+.boxextre{
+    background-color: green;
+    color: white;
+    padding: 3;
+    border: 1px solid black;
+}.boxexquattro{
+    background-color: red;
+    color: white;
+    padding: 3;
+    border: 1px solid black;
+}
+.boxexcinquepiccola{
+background-color: rgb(96, 99, 100);
+    color: white;
+    padding: 3;
+    border: 1px solid black;
+}
+.boxexcinque{
+background-color: rgb(20, 108, 155);
+    color: white;
+    padding: 3;
+    border: 1px solid black;
+}
+.boxexsei{
+  background-color: rgb(36, 33, 31);
+    color: white;
+    padding: 3;
+    border: 1px solid black;  
+}
