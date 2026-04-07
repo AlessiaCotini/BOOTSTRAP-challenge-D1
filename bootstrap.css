@@ -12073,3 +12073,7 @@ background-color: rgb(20, 108, 155);
     padding: 3;
     border: 1px solid black;  
 }
+
+div.container{
+    padding: 0;
+}
